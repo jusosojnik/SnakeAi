@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+}
+
+#myCanvas { 
+    border: 2px solid red;
+}
+
+#myCanvasDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+#gameModeButton {
+    margin-top: 10px;
+    width: 300px;
+    height: 30px;
+    color: green;
+    background-color: black;
+    border: 2px solid red;
+    cursor: pointer;
+}
+
+p {
+    margin-top: 10px;
+}
